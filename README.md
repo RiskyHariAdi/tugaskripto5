@@ -1,6 +1,6 @@
 # TUGAS KRIPTO
 # PERTEMUAN 6
-| Nama      | RISKY HARIADI |
+| Nama | RISKY HARIADI |
 | --------- | ----------- |
 | NIM     | 312010124      |
 | Kelas   | TI.20.A.1        |
