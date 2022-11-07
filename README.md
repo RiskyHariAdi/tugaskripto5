@@ -8,7 +8,7 @@
 
 # Latihan :
 
-*Lakukan enkripsi Playfair Cihper pada plaintext:*
+## *Lakukan enkripsi Playfair Cihper pada plaintext:*
 
 GOOD BROOM SWEEP CLEAN
 
